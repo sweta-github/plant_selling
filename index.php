@@ -11,7 +11,7 @@
 	      <!-- Main content -->
 	      <section class="content">
 	        <div class="row">
-	        	<div class="col-sm-9">
+	        	<div class="col-sm-10.5">
 	        		<?php
 	        			if(isset($_SESSION['error'])){
 	        				echo "
