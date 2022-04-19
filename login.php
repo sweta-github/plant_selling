@@ -26,7 +26,7 @@
       }
     ?>
   	<div class="login-box-body">
-    	<p class="login-box-msg">Sign in </p>
+    	<p class="login-box-msg">Sign in to start your session</p>
 
     	<form action="verify.php" method="POST">
       		<div class="form-group has-feedback">
@@ -45,7 +45,7 @@
     	</form>
       <br>
       <a href="password_forgot.php">I forgot my password</a><br>
-      <a href="signup.php" class="text-center">Register a new member</a><br>
+      <a href="http://127.0.0.1:8000/registration" class="text-center">Register a new membership</a><br>
       <a href="index.php"><i class="fa fa-home"></i> Home</a>
   	</div>
 </div>
